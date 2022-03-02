@@ -6,7 +6,8 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
-type: quick_start
+bruhhhhh
+
 topics:
   - Pull requests
   - Fundamentals
